@@ -1,4 +1,4 @@
-**DesiDestiny Travel Agency Website**
+**DesiDestiny Website**
 ---
 
 ### Overview:
